@@ -1,1 +1,1 @@
-I accidentally did a dumb
+Repository for my class Mech 476
